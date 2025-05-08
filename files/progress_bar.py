@@ -1,4 +1,7 @@
 import time
+
+# Entirely unused, might implement later
+
 # Print iterations progress
 def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
     """
